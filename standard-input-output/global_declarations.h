@@ -1,0 +1,10 @@
+#ifndef STANDARD_INPUT_OUTPUT_GLOBAL_DECLARATIONS_H
+#define STANDARD_INPUT_OUTPUT_GLOBAL_DECLARATIONS_H
+
+void intInputDemo();
+
+void floatInputDemo();
+
+void charInputDemo();
+
+#endif //STANDARD_INPUT_OUTPUT_GLOBAL_DECLARATIONS_H
